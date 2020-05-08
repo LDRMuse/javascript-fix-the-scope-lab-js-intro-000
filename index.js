@@ -20,7 +20,7 @@ function add2(n) {
 
   // Feel free to move things around!
 
-  
+
 }
 
 var funkyFunction = function() {
